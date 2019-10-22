@@ -118,27 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CopyedHosed" xml:space="preserve">
-    <value>Copied {0} to hosts</value>
+    <value>已复制 {0} to hosts</value>
   </data>
   <data name="CopyedTo" xml:space="preserve">
-    <value>Copied {0} to {1}</value>
+    <value>已复制 {0} to {1}</value>
   </data>
   <data name="CopyToWhichFile" xml:space="preserve">
-    <value>Copy {0} to which file ?</value>
+    <value>复制 {0} 到指定文件 ?</value>
   </data>
   <data name="DeletedString" xml:space="preserve">
-    <value>Deleted {0}</value>
+    <value>已删除 {0}</value>
   </data>
   <data name="HostsSwitcher" xml:space="preserve">
-    <value>Hosts Switcher</value>
+    <value>Hosts 管理器</value>
   </data>
   <data name="HostsSwitchStartErrorMessage" xml:space="preserve">
-    <value>Another instance of HostsSwitcher is already running.</value>
+    <value>已有Hosts管理器实例在运行。</value>
   </data>
   <data name="HostsSwitchStartErrorTitle" xml:space="preserve">
-    <value>Cannot start HostsSwitcher</value>
+    <value>启动Hosts管理器失败</value>
   </data>
   <data name="ReallyDelete" xml:space="preserve">
-    <value>Really delete {0} ?</value>
+    <value>确认删除 {0} ?</value>
   </data>
 </root>
